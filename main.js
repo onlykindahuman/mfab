@@ -49,7 +49,7 @@ function setup() {
 function preload() {
     let req = new XMLHttpRequest();
     req.addEventListener("load", reqListener);
-    req.open("get", "http://192.168.16.83:8080/mirza/");
+    req.open("get", "/pseudoserver/");
     req.responseType = "json"
     req.send();
 }
