@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(181, 235, 160);
+} 
+#picture {
+    color: rgb(35, 138, 117);  
+}
+.ingredient {
+    font-family: fantasy;
+    font-weight: 100;
+}

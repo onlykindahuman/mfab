@@ -1,0 +1,7 @@
+This website is for F&B form fill and to look at recipes.
+On the form page you can fill ingredient, measurement, costing and picture.
+On data page you will see your recipes.
+
+In CSS i use ID, class and element selector.
+Js i use p5.js library to draw thing.
+
